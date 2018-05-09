@@ -3,3 +3,6 @@ CREATE TABLE IF NOT EXISTS pokemon(
   name TEXT,
   type TEXT
 );
+
+
+ALTER TABLE 
